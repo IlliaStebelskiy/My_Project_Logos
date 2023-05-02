@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IlliaStebelskiy/My_Project_Logos.git/static/css/main.5f422bea.css",
+    "main.js": "/IlliaStebelskiy/My_Project_Logos.git/static/js/main.e4c9ad88.js",
+    "static/js/787.b50b346d.chunk.js": "/IlliaStebelskiy/My_Project_Logos.git/static/js/787.b50b346d.chunk.js",
+    "index.html": "/IlliaStebelskiy/My_Project_Logos.git/index.html",
+    "main.5f422bea.css.map": "/IlliaStebelskiy/My_Project_Logos.git/static/css/main.5f422bea.css.map",
+    "main.e4c9ad88.js.map": "/IlliaStebelskiy/My_Project_Logos.git/static/js/main.e4c9ad88.js.map",
+    "787.b50b346d.chunk.js.map": "/IlliaStebelskiy/My_Project_Logos.git/static/js/787.b50b346d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f422bea.css",
+    "static/js/main.e4c9ad88.js"
+  ]
+}
